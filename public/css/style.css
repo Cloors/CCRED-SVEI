@@ -1,0 +1,59 @@
+/*index*/
+body.pagina_index{
+	background: #165387; 
+}
+
+.pagina_index h2{
+	color: #ffffff;
+	margin-top: 38px;
+	margin-bottom: 38px;
+	text-align: center;
+}
+
+.pagina_index label{
+	color: white;
+}
+
+/*manu principal*/
+.container-fluid div#bs-example-navbar-collapse-1{
+	background: #337ab7;
+}
+
+.container-fluid a.navbar-brand, .container-fluid a.navbar-brand:hover{
+	color: white;
+}
+
+li.dropdown.navbar_dropdown{
+	background: #fff;
+	margin: 6px;
+}
+
+li.dropdown.navbar_dropdown:hover{
+	background: rgba(242, 242, 242,.7);
+	margin: 6px;
+	transition: ease .5s;
+}
+
+
+a.btn.btn-primary.ajax-link {
+	background: #337ab7;
+}
+
+a.btn.btn-primary.ajax-link:hover {
+	background: #fff;
+	color: #000000;
+	transition: ease .5s;
+}
+
+/*footer*/
+footer.footer{
+	margin-top: 100px;
+	color: #fff;
+	background-color: #337ab7;
+	height: 50px;
+	padding: 13px 31px;
+}
+
+footer a, footer a:hover{
+	color: #ffffff;
+}
